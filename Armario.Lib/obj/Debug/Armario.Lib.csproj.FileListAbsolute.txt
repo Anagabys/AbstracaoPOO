@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Armario.Lib\bin\Debug\Armario.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Armario.Lib\bin\Debug\Armario.Lib.pdb
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Armario.Lib\obj\Debug\Armario.Lib.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Armario.Lib\obj\Debug\Armario.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Armario.Lib\obj\Debug\Armario.Lib.pdb

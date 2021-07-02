@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\ContaBancaria.Lib\bin\Debug\ContaBancaria.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\ContaBancaria.Lib\bin\Debug\ContaBancaria.Lib.pdb
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\ContaBancaria.Lib\obj\Debug\ContaBancaria.Lib.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\ContaBancaria.Lib\obj\Debug\ContaBancaria.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\ContaBancaria.Lib\obj\Debug\ContaBancaria.Lib.pdb

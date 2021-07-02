@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Dinheiro.Lib\bin\Debug\Dinheiro.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Dinheiro.Lib\bin\Debug\Dinheiro.Lib.pdb
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Dinheiro.Lib\obj\Debug\Dinheiro.Lib.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Dinheiro.Lib\obj\Debug\Dinheiro.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Dinheiro.Lib\obj\Debug\Dinheiro.Lib.pdb

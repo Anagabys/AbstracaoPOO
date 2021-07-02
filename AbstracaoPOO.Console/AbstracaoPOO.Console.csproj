@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2A80B767-D00E-4259-862A-E11BB1B53E0C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AbstracaoPOO.Console</RootNamespace>
+    <AssemblyName>AbstracaoPOO.Console</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Armario.Lib\Armario.Lib.csproj">
+      <Project>{9f224370-23de-438a-99c2-244bdaa80392}</Project>
+      <Name>Armario.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Batom.Lib\Batom.Lib.csproj">
+      <Project>{429fb736-e167-4767-babf-25a5b2b7d0b4}</Project>
+      <Name>Batom.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Carro.Lib\Carro.Lib.csproj">
+      <Project>{b822b112-aea0-4619-b73f-e7210e2c128f}</Project>
+      <Name>Carro.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Celular.Lib\Celular.Lib.csproj">
+      <Project>{a541472d-dadd-4abf-b270-ff326d998e7b}</Project>
+      <Name>Celular.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Computador.Lib\Computador.Lib.csproj">
+      <Project>{336e0053-db86-4664-8000-9ab7e71bbd8a}</Project>
+      <Name>Computador.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Condominio.Lib\Condominio.Lib.csproj">
+      <Project>{bdffe1c8-a337-4e4a-92cf-aaec380b9a96}</Project>
+      <Name>Condominio.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ContaBancaria.Lib\ContaBancaria.Lib.csproj">
+      <Project>{66e92b3a-08c4-439b-a855-e6cb4568c7ec}</Project>
+      <Name>ContaBancaria.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dinheiro.Lib\Dinheiro.Lib.csproj">
+      <Project>{150a335b-0720-4641-887d-6ada9f5a91af}</Project>
+      <Name>Dinheiro.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Livro.Lib\Livro.Lib.csproj">
+      <Project>{46b37eca-ce25-4627-87d0-a4de6edb2cf0}</Project>
+      <Name>Livro.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pessoa.Lib\Pessoa.Lib.csproj">
+      <Project>{851fe3f2-d94f-42b5-a295-5d2e39d83b09}</Project>
+      <Name>Pessoa.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

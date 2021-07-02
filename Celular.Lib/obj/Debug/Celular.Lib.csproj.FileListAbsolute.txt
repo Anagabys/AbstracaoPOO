@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Celular.Lib\bin\Debug\Celular.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Celular.Lib\bin\Debug\Celular.Lib.pdb
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Celular.Lib\obj\Debug\Celular.Lib.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Celular.Lib\obj\Debug\Celular.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Celular.Lib\obj\Debug\Celular.Lib.pdb

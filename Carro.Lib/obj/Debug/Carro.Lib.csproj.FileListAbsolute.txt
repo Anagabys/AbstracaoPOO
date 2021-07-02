@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Carro.Lib\bin\Debug\Carro.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Carro.Lib\bin\Debug\Carro.Lib.pdb
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Carro.Lib\obj\Debug\Carro.Lib.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Carro.Lib\obj\Debug\Carro.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Carro.Lib\obj\Debug\Carro.Lib.pdb

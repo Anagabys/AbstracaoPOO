@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Livro.Lib\obj\Debug\Livro.Lib.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Livro.Lib\bin\Debug\Livro.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Livro.Lib\bin\Debug\Livro.Lib.pdb
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Livro.Lib\obj\Debug\Livro.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Livro.Lib\obj\Debug\Livro.Lib.pdb

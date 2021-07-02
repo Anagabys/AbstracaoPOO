@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Batom.Lib\bin\Debug\Batom.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Batom.Lib\bin\Debug\Batom.Lib.pdb
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Batom.Lib\obj\Debug\Batom.Lib.csprojResolveAssemblyReference.cache
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Batom.Lib\obj\Debug\Batom.Lib.dll
+C:\Users\user2\Desktop\AbstracaoPOO\AbstracaoPOO\Batom.Lib\obj\Debug\Batom.Lib.pdb
